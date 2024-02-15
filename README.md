@@ -1,5 +1,5 @@
 ## Portfolio
-Portfolio Landing Page with use flex
+Portfolio Landing Page with using flex
 The sample Landing Page [you can see this page by the link](https://dariya105.github.io/Portfolio/)
 - Use flex
 - This page has a slider
